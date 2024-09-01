@@ -34,6 +34,8 @@ The AI-Powered Resume Parser is a tool designed to extract key information from 
 The code provides a framework for building an AI-powered resume parser using Natural Language Processing (NLP). It processes resumes and job descriptions to extract key information and calculate the relevance of each resume to the job description. This functionality is implemented using Python and executed in Google Colab.
 
 **Key Components**
+
+
 **1.Getting Set Up:**
 
 Installing Libraries: We use several libraries like spacy for natural language processing, nltk for extra text handling, scikit-learn for machine learning, and pandas for managing data. These are installed and set up at the start.
