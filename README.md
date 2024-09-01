@@ -57,6 +57,7 @@ Matching Process: We use a technique called TF-IDF to convert the resume and job
 Processing Data: The code reads a CSV file with resumes and job descriptions, processes each resume, matches it with the job description, and extracts important details. Finally, it saves all this information, including how well each resume matches the job, into a new CSV file.
 
 **Workflow:**
+
 **Setup:** Install necessary libraries and download required models.
 
 **Preprocessing:** Clean and prepare resume and job description texts.
